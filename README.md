@@ -8,13 +8,13 @@ Este es mi primer repositorio. Aquí empecé a trabajar con GitHub.
 ## ✅ Respuestas
  
 ### 🧪 ¿Qué hice aquí?
-(Respuesta)
+mi primera pagina en github
  
 ### 😮 ¿Qué es GitHub?
-(Respuesta)
+una plataforma para proyectos en desarrollo
  
 ### 🎯 ¿Para qué me sirve?
-(Respuesta)
+para gestionar proyectos de software
  
 ---
  
@@ -24,5 +24,6 @@ Aquí ya realicé varios cambios en GitHub.
 ---
  
 ## 👤 Sobre mí
-Nombre:
-Curso: 
+Nombre: paùl zurita
+Curso: DP 1 "1"
+Ruta: 1
