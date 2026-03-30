@@ -1,21 +1,33 @@
 # 🚀 Mi primer repositorio en GitHub
  
 ## 👋 Bienvenido
-Este es mi primer repositorio. Aquí empecé a trabajar con GitHub.
- 
+░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄
+░░░░█░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▀▀▄
+░░░█░░░▒▒▒▒▒▒░░░░░░░░▒▒▒░░█
+░░█░░░░░░▄██▀▄▄░░░░░▄▄▄░░░█
+░▀▒▄▄▄▒░█▀▀▀▀▄▄█░░░██▄▄█░░░█
+█▒█▒▄░▀▄▄▄▀░░░░░░░░█░░░▒▒▒▒▒█
+█▒█░█▀▄▄░░░░░█▀░░░░▀▄░░▄▀▀▀▄▒█
+░█▀▄░█▄░█▀▄▄░▀░▀▀░▄▄▀░░░░█░░█
+░░█░░▀▄▀█▄▄░█▀▀▀▄▄▄▄▀▀█▀██░█
+░░░█░░██░░▀█▄▄▄█▄▄█▄████░█
+░░░░█░░░▀▀▄░█░░░█░███████░█
+░░░░░▀▄░░░▀▀▄▄▄█▄█▄█▄█▄▀░░█
+░░░░░░░▀▄▄░▒▒▒▒░░░░░░░░░░█
+░░░░░░░░░░▀▀▄▄░▒▒▒▒▒▒▒▒▒▒░█
+░░░░░░░░░░░░░░▀▄▄▄▄▄░░░░░█
 ---
  
 ## ✅ Respuestas
  
 ### 🧪 ¿Qué hice aquí?
-mi primera pagina en github
+Crear y editar mi primera pagina en github vinculandolo con visual estudio code
  
 ### 😮 ¿Qué es GitHub?
-una plataforma para proyectos en desarrollo
- 
+GitHub es una plataforma basada en la nube diseñada para almacenar, compartir y colaborar en proyectos de desarrollo de software Y la gestión de código fuente mediante el uso de Git, un sistema de control de versiones.
+
 ### 🎯 ¿Para qué me sirve?
-para gestionar proyectos de software
- 
+Para colaborar en equipo, rastrear cambios y alojar proyectos de código abierto o privados.
 ---
  
 ## ✍️ Mi progreso
